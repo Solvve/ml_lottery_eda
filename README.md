@@ -1,6 +1,6 @@
 # Lottery-EDA
 
-[![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/Solvve/Lottery-EDA/blob/master/LICENSE)
+[![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/Solvve/Lottery-EDA/blob/master/LICENSE.txt)
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-378/)
 [![Solvve](https://img.shields.io/badge/made%20in-solvve-blue)](https://solvve.com/)
 
